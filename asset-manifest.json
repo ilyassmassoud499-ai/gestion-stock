@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ilyassmassoud499-ai/gestion-stock/static/css/main.9e88024c.css",
-    "main.js": "/ilyassmassoud499-ai/gestion-stock/static/js/main.292078c4.js",
-    "static/js/453.c66c9649.chunk.js": "/ilyassmassoud499-ai/gestion-stock/static/js/453.c66c9649.chunk.js",
-    "static/media/transparent.jpg": "/ilyassmassoud499-ai/gestion-stock/static/media/transparent.95e50b52f0f01f3db7ec.jpg",
-    "index.html": "/ilyassmassoud499-ai/gestion-stock/index.html",
-    "main.9e88024c.css.map": "/ilyassmassoud499-ai/gestion-stock/static/css/main.9e88024c.css.map",
-    "main.292078c4.js.map": "/ilyassmassoud499-ai/gestion-stock/static/js/main.292078c4.js.map",
-    "453.c66c9649.chunk.js.map": "/ilyassmassoud499-ai/gestion-stock/static/js/453.c66c9649.chunk.js.map"
+    "main.css": "/ilyassmassoud499-ai/gestion-stock.git/static/css/main.5d31684f.css",
+    "main.js": "/ilyassmassoud499-ai/gestion-stock.git/static/js/main.86548a4f.js",
+    "static/js/453.c66c9649.chunk.js": "/ilyassmassoud499-ai/gestion-stock.git/static/js/453.c66c9649.chunk.js",
+    "static/media/transparent.jpg": "/ilyassmassoud499-ai/gestion-stock.git/static/media/transparent.95e50b52f0f01f3db7ec.jpg",
+    "index.html": "/ilyassmassoud499-ai/gestion-stock.git/index.html",
+    "main.5d31684f.css.map": "/ilyassmassoud499-ai/gestion-stock.git/static/css/main.5d31684f.css.map",
+    "main.86548a4f.js.map": "/ilyassmassoud499-ai/gestion-stock.git/static/js/main.86548a4f.js.map",
+    "453.c66c9649.chunk.js.map": "/ilyassmassoud499-ai/gestion-stock.git/static/js/453.c66c9649.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e88024c.css",
-    "static/js/main.292078c4.js"
+    "static/css/main.5d31684f.css",
+    "static/js/main.86548a4f.js"
   ]
 }
