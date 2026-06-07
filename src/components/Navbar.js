@@ -1,18 +1,10 @@
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 function Navbar() {
-  const navigate = useNavigate();
-
-  const logout = () => {
-    localStorage.removeItem("user");
-    navigate("/");
-    window.location.reload(); // Recharge pour cacher Navbar et Footer
-  };
-
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav className="navbar navbar-expand-lg navbar-light navbar-custom">
       <div className="container">
-        <Link className="navbar-brand" to="/Accueil">Gestion du Stock</Link>
+        <Link className="navbar-brand text-primary" to="/accueil">Gestion du Stock</Link>
 
         <button
           className="navbar-toggler"
@@ -44,12 +36,7 @@ function Navbar() {
               <Link className="nav-link" to="/depot">Depot</Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/Dashboard">Dashboard</Link>
-            </li>
-           
-          
-            <li className="nav-item">
-              <button className="btn btn-danger ms-3" onClick={logout}>deconnexion</button>
+              <Link className="nav-link" to="/dashboard">Dashboard</Link>
             </li>
           </ul>
         </div>
